@@ -1,0 +1,13 @@
+{
+  "name": "Test",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "normalize": "^0.3.1",
+    "sass": "^1.24.3"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "D-R-E-D <shut.oleg4@gmail.com>",
+  "license": "MIT"
+}

@@ -29,3 +29,12 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+#enviroments/production.rb
+config/credentials.yml.enc
+config/database.yml
+config/secrets.yml
+config/initializer/assets.rb
+config/storage.yml
+yarn-debug.log*
+.yarn-integrity
